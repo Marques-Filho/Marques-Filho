@@ -2,18 +2,19 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marques+Matos;I+study+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-### About me:
+<h2 align="left">About me:</h2>
 
-- 🎓 Bachelor's student in Software Engineering at International University Center (UNINTER).
-- 📚 Full Stack Development student at Digital College.
-- 🎯 Focused on software development, web development, and artificial intelligence (Prompt Engineering).
+###
 
-Contact:
-- 📧 Email: marquesfilho1@outlook.com
+<h4 align="left">🎓 Bachelor's student in Software Engineering at International University Center (UNINTER).<br>📚 Full Stack Development student at Digital College.<br>🎯 Focused on software development, web development, and artificial intelligence (Prompt Engineering).</h4>
 
-Fun Facts: 
-- 🚀 Process optimizer, always seeking new challenges and learning opportunities.
-- 🤘 I love playing guitar, acoustic guitar, and reading random books.
+###
+
+<h2 align="left">Fun Facts:</h2>
+
+###
+
+<h4 align="left">🚀 Process optimizer, always seeking new challenges and learning opportunities.<br>🤘 I love playing guitar, acoustic guitar, and reading random books.</h4>
 
 ###
 
