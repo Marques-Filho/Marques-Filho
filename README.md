@@ -8,6 +8,13 @@
 - 📚 Full Stack Development student at Digital College.
 - 🎯 Focused on software development, web development, and artificial intelligence (Prompt Engineering).
 
+Contact:
+- 📧 Email: marquesfilho1@outlook.com
+
+Fun Facts: 
+- 🚀 Process optimizer, always seeking new challenges and learning opportunities.
+- 🤘 I love playing guitar, acoustic guitar, and reading random books.
+
 ###
 
 <div align="center">  
