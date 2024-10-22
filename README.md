@@ -2,6 +2,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marques+Matos;I+study+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+### About me:
+
+- 🎓 Bachelor's student in Software Engineering at International University Center (UNINTER).
+- 📚 Full Stack Development student at Digital College.
+- 🎯 Focused on software development, web development, and artificial intelligence (Prompt Engineering).
+
+###
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marques-Filho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marques Matos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques-Filho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
