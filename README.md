@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🎓 Bachelor's student in Software Engineering at International University Center (UNINTER).<br>📚 Full Stack Development student at Digital College.<br>🎯 Focused on software development, web development, and artificial intelligence (Prompt Engineering).</h4>
+<p align="left">🎓 Bachelor's student in Software Engineering at International University Center (UNINTER).<br>📚 Full Stack Development student at Digital College.<br>🎯 Focused on software development, web development, and artificial intelligence (Prompt Engineering).</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">🚀 Process optimizer, always seeking new challenges and learning opportunities.<br>🤘 I love playing guitar, acoustic guitar, and reading random books.</h4>
+<p align="left">🚀 Process optimizer, always seeking new challenges and learning opportunities.<br>🤘 I love playing guitar, acoustic guitar, and reading random books.</p>
 
 ###
 
